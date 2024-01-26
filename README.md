@@ -23,7 +23,7 @@ The Youth India Foundation Official Website is a successful project that has bee
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/youth-india-foundation-website.git
+git clone https://github.com/Pk7372singh/Youth-India-Foundation-.git
 ```
 
 2. Open the project in your preferred code editor.
